@@ -20,10 +20,6 @@ Allows point texts to be vertically aligned based on the baseline of its font, n
 
 Fills a range of selected text items with numbers incremented based on the input data. Can only replace the `{%N}` placeholder within the selected text objects.
 
-<a href="https://youtu.be/02SLTH26sMQ">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![MakeNumbersSequence](https://i.ibb.co/VgqTcKw/Make-Numbers-Sequence.gif)
 
 ## ReplaceFormattedText
