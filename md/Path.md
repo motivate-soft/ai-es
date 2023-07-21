@@ -25,19 +25,11 @@ Divides the bottom path at the intersections with the top paths. The paths must 
 
 The script moves randomly in numeric ranges horizontally and vertically selected points or all points on objects. Quick access with <kbd>Q</kbd> + underlined key. Instead of <kbd>Q</kbd> you can set your modifier key in the script file `modKey: 'Q'`.
 
-<a href="https://youtu.be/9wVTDWUAEmE">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![PointsMoveRandom](https://i.ibb.co/9ZsRQJk/demo-Points-Move-Random.gif)
 
 ## SplitPath
 
 Powerfull script for subtract shapes from paths. Pathfinder panel in Adobe Illustrator does not do it.   
-
-<a href="https://youtu.be/1_vUUFkTwxk">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
 
 ![SplitPath](https://i.ibb.co/55fmqgY/demo-Split-Path.gif)
 

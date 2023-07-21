@@ -51,10 +51,6 @@ Batch renames Artboards, top-level Layers and selected objects in the document. 
 ## DuplicateArtboardsLight
 Script for copying the selected Artboard with his artwork. The Pro version with more options is available at [Gumroad](https://gumroad.com/sergosokin)   
 
-<a href="https://youtu.be/qDH1YRaYMYk">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![DuplicateArtboardsLight](https://i.ibb.co/rF92HpV/demo-Duplicate-Artboards-Light.gif) 
 
 ## FitArtboardsToArtwork

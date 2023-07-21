@@ -103,10 +103,6 @@ Resize of the selected objects to the specified amount on the larger side. Works
 
 Adobe Illustrator has a Transform panel, but you cannot use it to transform several selected objects to a specified value. It also has problems with the accuracy of the result. The script can transform selected objects with 100% accuracy, depending on the selected side: width, height or automatically the larger side. Units associated with "Document Setup". Quick access with <kbd>Q</kbd> + underlined key or digit. Instead of <kbd>Q</kbd> you can set your modifier key in the script file `modKey: 'Q'`.
 
-<a href="https://youtu.be/PN3dAf6rac8">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![ResizeToSize](https://i.ibb.co/q0Ktmfm/Resize-To-Size.gif)
 
 ## RoundCoordinates

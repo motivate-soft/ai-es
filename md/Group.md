@@ -37,8 +37,4 @@ Automatically trims all clip groups in a selection or a document using `Pathfind
 > **Note**   
 > If you want to save the fill of the mask mask after trimming, open the script file in a text editor and change `SAVE_FILLED_CLIPMASK = false;` value to `true`.
 
-<a href="https://youtu.be/liui0ZUAN50">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![TrimMasks](https://i.ibb.co/prkQGyt/demo-Trim-Masks.gif)

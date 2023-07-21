@@ -1,7 +1,7 @@
 # Adobe Illustrator Scripts For Reference
 
 ## Hi
-This is a collection of JS scripts for Adobe Illustrator. All scripts created by me, sometimes using parts of other authors’ code. 
+This is a collection of JS scripts for Adobe Illustrator by Seth Kingry. All scripts created by me, sometimes using parts of other authors’ code. 
 The descriptions for each file can be found in the file’s header text. Test environment: Illustrator CS6, CC 2022, 2023 (Windows), CC 2018-2023 (Mac OS).   
 
 ## How to download one script 

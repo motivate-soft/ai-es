@@ -25,10 +25,6 @@ Selects points on objects that are inside or outside the shape of the object. Fo
 
 Search items in the document by name and zoom to them contents. Inspired by Photoshop CC 2020 features.   
 
-<a href="https://youtu.be/30AwGPf_2Wk">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
-
 ![NamedItemsFinder](https://i.ibb.co/QDVtnXP/demo-Named-Items-Finder.gif)
 
 ## SelectAllLayersAbove
@@ -62,10 +58,6 @@ Selects points on the selected paths according to their type. Does the thing tha
 
 > **Note**   
 > Select `View → Hide Bounding Box` to see active points in real time.   
-
-<a href="https://youtu.be/pjHmBDLIWbw">
-  <img width="122" height="47" src="https://i.ibb.co/fqdwXL6/youtube-badge.png">
-</a>
 
 **Keyboard shortcuts:**   
 Instead of <kbd>Q</kbd> you can set your modifier key in the script file `modKey: 'Q'`.
